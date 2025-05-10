@@ -11,6 +11,7 @@
 #Source files:
 #########
 output_files/
+simulation/
 #Do NOT ignore VHDL, Verilog, block diagrams or EDIF files.
 !*.vhd
 !*.v
@@ -81,3 +82,7 @@ output_files/
 !*.elf
 !*.bmm
 !*.xmp
+#########
+#VWF-files
+#########
+!*.vwf
